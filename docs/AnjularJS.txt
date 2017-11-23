@@ -1,0 +1,70 @@
+Datae: 20-11-2017
+-----------------
+Angular JS 2.0
+--------------
+GIT 
+1. Distrubuted Version Control System. 
+2. github.com(Sharred Repo/Local Repo).
+
+0
+payment rest api paypal. 
+
+https://developer.paypal.com/docs/api/payments/
+
+\\DIN56003454\ADM Tools\tools
+
+
+Software:
+1. Git-2.9.0-64-bit
+2. nvm-setup.exe
+3. VSCodeSetup-x64-1.16.1
+
+
+Open CMD : 
+----------
+C:\Users\shivpal>nvm install 6.3.0
+Downloading node.js version 6.3.0 (64-bit)...
+Complete
+Creating C:\Users\shivpal\AppData\Roaming\nvm\temp
+
+Downloading npm version 3.10.3... Complete
+Installing npm v3.10.3...
+
+Installation complete. If you want to use this version, type
+
+nvm use 6.3.0
+
+
+Installed Location:
+---------------
+C:\Users\shivpal\AppData\Local\Programs\Git
+C:\Users\shivpal\AppData\Roaming\nvm
+C:\Program Files\nodejs
+
+Date : 21-11-2017
+-----------------
+
+Create Folder Without Spaces.
+
+
+
+shivpal@DIN52003340 MINGW64 /d/Anjular-2017/code
+$ git init local repo
+usage: git init [-q | --quiet] [--bare] [--template=<template-directory>] [--shared[=<permissions>]] [<directory>]
+
+shivpal@DIN52003340 MINGW64 /d/Anjular-2017/code
+$ git init local-repo
+Initialized empty Git repository in D:/Anjular-2017/code/local-repo/.git/
+
+
+shivpal@DIN52003340 MINGW64 /d/Anjular-2017/code
+$ git init shared-repo.git --bare
+Initialized empty Git repository in D:/Anjular-2017/code/shared-repo.git/
+
+
+shivpal@DIN52003340 MINGW64 /d/Anjular-2017/code
+$ cd local-repo
+
+shivpal@DIN52003340 MINGW64 /d/Anjular-2017/code/local-repo
+
+***************************************
